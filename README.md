@@ -1,6 +1,14 @@
 # WeatherApplicationApi
 this api return the weather detail of 30 cities based on pagination with proper authentication
 
+
+# UserNAme and Password for login
+
+username = "api-connect"
+password = ""fQx35X5FZUJ7bYSjPTDjn9Zj""
+
+
+
 # step to run api
 1.activate virtualenv or create your own virtualenv 
     # command : python3 -m venv /path/to/new/virtual/environment
